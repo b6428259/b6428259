@@ -7,7 +7,6 @@ Software Engineer
 I am a passionate university student with a strong interest in software development. My journey has been marked by hands-on experience and successful completion of 8+ projects, cultivating a robust foundation in software engineering.
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [Ronnasit.online](http://ronnasit.online)
 * ✉️  You can contact me at [ronnasit.tuayton@gmail.com](mailto:ronnasit.tuayton@gmail.com)
 
 <a href="https://www.github.com/b6428259" target="_blank" rel="noreferrer"><img
